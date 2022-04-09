@@ -1,3 +1,3 @@
-# Hot Module Reload Iissue
+# Hot Module Reload Issue
 
-Test repository for issue with hot module reload issue
+Test repository for issue with hot module reload
